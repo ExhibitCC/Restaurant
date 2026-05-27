@@ -1,0 +1,27 @@
+header, footer{
+    background-color: black; color: white; padding: 10px; text-align: center; font-size: 50px;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{ 
+    font-size: 30px;
+        text-align: center;
+}
+h3{
+    font-size: 25px;
+}
+nav{
+    background-color: brown; padding: 10px; text-align: center; font-size: 30px;
+}
+
+nav ul{
+    display:inline-flex;
+}
+nav ul li{
+    list-style-type:none;
+    padding: 0px 20px;
+}
+section{display: inline-flex; padding: 30px;}
+    
